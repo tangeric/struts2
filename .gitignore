@@ -1,0 +1,16 @@
+
+stuproject/.classpath
+stuproject/.project
+stuproject/.settings/.jsdtscope
+*.jar
+*.MF
+*.prefs
+stuproject/.settings/org.eclipse.wst.common.component
+stuproject/.settings/org.eclipse.wst.jsdt.ui.superType.container
+test/.classpath
+test/.project
+*.class
+*.component
+test/.settings/.jsdtscope
+test/.settings/org.eclipse.wst.jsdt.ui.superType.name
+test/.settings/org.eclipse.wst.jsdt.ui.superType.container
